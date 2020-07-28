@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tile
+  - PlayTile
+  - UpArrowBox_B
+  - UpArrowBox_R
+  - DownArrowBox_B
+  - DownArrowBox_R
+  - RightArrowBox_R
+  - RightArrowBox_B
+  - LeftArrowBox_R
+  - LeftArrowBox_B
+  - UpRightArrowBox_B
+  - UpRightArrowBox_R
+  - DownRightArrowBox_B
+  - DownRightArrowBox_R
+  - UpLeftArrowBox_B
+  - UpLeftArrowBox_R
+  - DownLeftArrowBox_B
+  - DownLeftArrowBox_R
+  - CenterBox_R
+  - CenterBox_B
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Tile
+  - Nord
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
